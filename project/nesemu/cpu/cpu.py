@@ -1,6 +1,5 @@
-# cpu.py
+from nesemu.cpu.registers import Registers
 
-from cpu.registers import Registers
 
 class CPU:
     def __init__(self):
